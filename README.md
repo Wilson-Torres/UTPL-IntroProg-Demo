@@ -8,8 +8,10 @@ El repositorio se organiza por carpetas. Cada carpeta corresponde a una activida
 
 A continuación se describen cada una  de la actividades en orden cronológico:
 
-* **Tarea Autoestudio 01**: Resumen de conceptos básicos de computación y programación.
-* **Práctica 01**: Práctica sobre manejo de GIT.
+* **Tarea_Autoestudio_01**: Resumen de conceptos básicos de computación y programación.
+* **Practica_01**: Práctica sobre manejo de GIT.
+* **Practica_02**: Programación en Java con estructuras básicas
+
 
 ## Créditos
 
